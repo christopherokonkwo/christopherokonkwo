@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [https://bookrema.com](https://bookrema.com)
 - 💬 Ask me about PHP, Laravel, VueJs, and Laravel Livewire
-- 📫 How to reach me: [@xtopherc43](https://twitter.com/xtopherc43) or [@Bookrema](https://twitter.com/bookrema) on Twitter
+- 📫 How to reach me: [@xtopherc43](https://twitter.com/xtopherc43) or [@Bookrema1](https://twitter.com/Bookrema1) on Twitter
 
 <!--
 **christopherokonkwo/christopherokonkwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
