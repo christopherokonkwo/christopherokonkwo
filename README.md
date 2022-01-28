@@ -3,7 +3,8 @@
 [![twitter](https://img.shields.io/twitter/follow/xtopherc43?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/xtopherc43)
 [![github](https://img.shields.io/github/followers/christopherokonkwo?logo=github&style=plastic)](https://github.com/christopherokonkwo?tab=followers)
 
-- 🔭 I’m currently working on [Bookrema](https://bookrema.com) and [AnglicanNg](https://anglicanng.com) and [Nawfia.Net](https://mawfia.net)
+- 🔭 I’m currently working on [Bookrema](https://bookrema.com) and [AnglicanNg](https://anglicanng.com) and [Nawfia.Net](https://nawfia.net) and [AGH](https://ashleysglamhouse.com) and [Ashley Academy](https://ashleyacademy.ng)
+- 🌱 I'm currently learning VueJs
 - 💬 Ask me about PHP, Laravel, VueJs, and Laravel Livewire
 - 📫 How to reach me: [@xtopherc43](https://twitter.com/xtopherc43) on Twitter or [christopher.chiemezie](https://facebook.com/christopher.chiemezie) on Facebook
 
