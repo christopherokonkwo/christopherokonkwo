@@ -3,9 +3,9 @@
 [![twitter](https://img.shields.io/twitter/follow/xtopherc43?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/xtopherc43)
 [![github](https://img.shields.io/github/followers/christopherokonkwo?logo=github&style=plastic)](https://github.com/christopherokonkwo?tab=followers)
 
-- 🔭 I’m currently working on [https://bookrema.com](https://bookrema.com)
+- 🔭 I’m currently working on [Bookrema](https://bookrema.com) and [AnglicanNg](https://anglicanng.com) and [Nawfia.Net](https://mawfia.net)
 - 💬 Ask me about PHP, Laravel, VueJs, and Laravel Livewire
-- 📫 How to reach me: [@xtopherc43](https://twitter.com/xtopherc43) or [@Bookrema1](https://twitter.com/Bookrema1) on Twitter
+- 📫 How to reach me: [@xtopherc43](https://twitter.com/xtopherc43) on Twitter or [christopher.chiemezie](https://facebook.com/christopher.chiemezie) on Facebook
 
 <!--
 **christopherokonkwo/christopherokonkwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
