@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
- 🌍  I'm based in Port Harcourt, Nigeria<br> ✉️  You can contact me at [xtopherc43@gmail.com](mailto:xtopherc43@gmail.com)<br> 🚀  I'm currently working on [Easy Pay](http://easypaybillsng.com)<br> 🧠  I'm learning a VueJs and Dart<br> 🤝  I'm open to collaborating on interesting projects<br> ⚡  I love football and most especially Manchester United
+ 🌍  I'm based in Aba, Nigeria<br> ✉️  You can contact me at [xtopherc43@gmail.com](mailto:xtopherc43@gmail.com)<br> 🚀  I'm currently working on [Aba Power Limited Electric](http://abapower.com)<br> 🧠  I'm learning a VueJs and Dart<br> 🤝  I'm open to collaborating on interesting projects<br> ⚡  I love football and most especially Manchester United
 
 
 ## 🌐 Socials:
